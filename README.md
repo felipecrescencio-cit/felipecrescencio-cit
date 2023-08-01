@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Nice to e-meet you :)
+
+I work for [CI&T](https://ciandt.com) and this is my company's GitHub, please feel free to check my personal GitHub account at [https://github.com/felipecrescencio](https://github.com/felipecrescencio).
